@@ -1,9 +1,12 @@
 # Hi, I'm Nikita Sharma 👋
 
-### Aspiring Machine Learning Engineer | Python | SQL
+### Aspiring Data Scientist | Python | SQL | Machine Learning 
 
-Welcome to my GitHub profile! I'm developing my skills in Python programming, machine learning, SQL, and data visualization through hands-on practice.
+Welcome to my GitHub profile! 
 
+I'm an Aspiring Data Scientist passionate about exploring data, discovering insights, and solving real-world problems.
+
+I'm developing my skills in Python, SQL, Machine Learning, and Data Visualization through continuous learning and hands-on projects.
 ## 🛠️ Technical Skills
 
 - **Programming:** Python
